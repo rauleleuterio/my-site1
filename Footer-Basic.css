@@ -1,0 +1,134 @@
+.footer-basic {
+  padding: 40px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-bottom: 0;
+  font-weight: 100;
+}
+
+.footer-basic li {
+  padding: 0px;
+  padding-right: 5px;
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.80;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0 8px;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
+}
+
+.fa.fa-star {
+}
+
+.sun-in-energy {
+  font-family: Montserrat, sans-serif;
+}
+
+.instalação {
+  margin-bottom: 0px;
+}
+
+.instalação2 {
+  font-family: Montserrat, sans-serif;
+}
+
+.orçamento-saber-mais:hover {
+  background-color: rgba(255,255,255,0);
+  color: #ffffff;
+  border: 3px solid white;
+  border-radius: 30px;
+}
+
+.orçamento-saber-mais {
+  background-color: rgba(0,98,204,0);
+  color: #000000;
+  border: 3px solid;
+  border-radius: 30px;
+}
+
+.orçamento-saber-mais:border {
+  background-color: rgba(0,98,204,0);
+  color: #000000;
+  border: 3px solid;
+  border-radius: 30px;
+}
+
+.btn.btn-primary.btn-block.orçamento-saber-mais {
+}
+
+.col.vertical-line {
+  border: 1px solide black;
+}
+
+.col.border-line {
+  border: 1px solid rgba(0,0,0,0.44);
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.saber-mais-modulos-camadas {
+}
+
+.saber-mais-body {
+  color: white;
+  background: white;
+}
+
+.saber-mais-body {
+}
+
+#pag-5 {
+  text-align: center;
+}
+
+.rounded.w-100.d-block.border.shadow-lg.d-flex.justify-content-center.align-items-center.align-content-center.align-self-center {
+  text-align: center;
+}
+
+#final-button-2 {
+  border: 2px solid;
+}
+
